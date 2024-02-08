@@ -5,6 +5,9 @@
   "module": "./demo/index.mjs",
   "types": "./demo/index.d.ts",
   "homepage": "https://google.com",
+  "repository": {
+    "url": "https://github.com/az1zbek2004/demo-package"
+  },
   "scripts": {
     "build": "tsup"
   },
